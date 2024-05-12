@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=player_plane
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ up()
+comment3.params=
+comment3.target=void\ left()
+comment4.params=
+comment4.target=void\ down()
+comment5.params=
+comment5.target=void\ right()
+comment6.params=
+comment6.target=void\ shoot()
+comment7.params=
+comment7.target=void\ reload()
+comment8.params=
+comment8.target=void\ damage()
+numComments=9

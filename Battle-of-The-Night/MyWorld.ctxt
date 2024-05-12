@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\r\n\ Shinta\ Rachma\ Yulianti\ (F11.2022.00049)\r\n\ Imelda\ Maretta\ Putri\ \ \ (F11.2022.00053)\r\n\ Mark\ Arvid\ Sutrisno\ \ \ \ (F11.2022.00055)\r\n\ \r\n\ @version\ 1.1\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=void\ wave()
+comment2.params=iScore
+comment2.target=void\ setScore(int)
+comment3.params=
+comment3.target=int\ getScore()
+comment4.params=iHealth
+comment4.target=void\ setHealth(int)
+comment5.params=
+comment5.target=int\ getHealth()
+comment6.params=iAmmo
+comment6.target=void\ setAmmo(int)
+comment7.params=
+comment7.target=int\ getAmmo()
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=void\ prepare()
+numComments=11
