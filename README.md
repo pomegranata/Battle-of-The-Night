@@ -1,5 +1,10 @@
 # Battle-of-The-Night
-Short duration game using Java language in Greenfoot
+Short duration game using Java language in Greenfoot. Developed as the final assignment for mid-semester.
+
+Control:
+1. W, A, S, D = player movement
+2. Space = shoot
+3. R = reload
 
 Feature: 
 1. Different enemy pattern when the player reach certain point.
